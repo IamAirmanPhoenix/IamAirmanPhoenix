@@ -25,3 +25,8 @@ Un poco sobre mi:
  * 📱 Para contactar conmigo: En mi cuenta de LinkedIn.
  * 💖 Me gusta: Los videojuegos, lectura de ciencia ficción y el boxeo.
  * 🌟 Cita favorita: “And will you succeed? Yes! You will, indeed! (98 and 3/4 percent guaranteed)".
+
+### Lenguajes:
+| Python3 |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
