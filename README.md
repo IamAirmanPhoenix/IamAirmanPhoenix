@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-trevi%C3%B1o-215173217/)
 
 ## Buenas, soy Juan Jo. ¡Mucho gusto! 👋
+
+Un poco sobre mi:
+ * 🙋 Mi nombre: Juan José Treviño Trujillo.
+ * 👦 Pronombres: Él.
+ * 🏫 Proyecto actual: Algebra lineal aplicada a machine learning.
+ * 📱 Para contactar conmigo: En mi cuenta de LinkedIn.
+ * 💖 Me gusta: Los videojuegos, lectura de ciencia ficción y el boxeo.
+ * 🌟 Cita favorita: “And will you succeed? Yes! You will, indeed! (98 and 3/4 percent guaranteed)".
