@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/IamAirmanPhoenix/IamAirmanPhoenix/assets/164080503/49845672-b0fe-4c10-b9cc-96e022dc2020)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-trevi%C3%B1o-215173217/)
+
 ![](https://komarev.com/ghpvc/?username=IamAirmanPhoenix&color=blueviolet&style=flat-square)
 
 ## Buenas, soy Juan Jo. ¡Mucho gusto! 👋
@@ -56,3 +57,5 @@ Un poco sobre mi:
 | VS Code | Jupyterhub | Jupyterlab | Anaconda |
 |-------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/> |  <img src="https://imgs.search.brave.com/LtHWhtvOFx1kdvO0QPgOjYmYLT5cLKS-drx8-FQZjeM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM4L0p1cHl0ZXJf/bG9nby5zdmc" title="jupyterhub" alt="jupyterhub" width="55" height="55"/> |  <img src="https://imgs.search.brave.com/LtHWhtvOFx1kdvO0QPgOjYmYLT5cLKS-drx8-FQZjeM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8z/LzM4L0p1cHl0ZXJf/bG9nby5zdmc" title="jupyterlab" alt="jupyterlab" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="55" height="55"/> |
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAirmanPhoenix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
